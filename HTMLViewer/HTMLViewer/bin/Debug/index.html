@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+    <head>
+        <title>CodeMirror</title>
+        <meta charset="utf-8"/>
+        <script src="codemirror-5.63.3/lib/codemirror.js"></script>
+        <link rel="stylesheet" href="codemirror-5.63.3/lib/codemirror.css">
+        <script src="codemirror-5.63.3/mode/clike/clike.js"></script>
+        <link rel="stylesheet" href="codemirror-5.63.3/theme/monokai.css">
+        <link rel="stylesheet" href="codemirror-5.63.3/addon/scroll/simplescrollbars.css">
+        <script src="codemirror-5.63.3/addon/scroll/simplescrollbars.js"></script>
+        <style>
+            body {
+                background: #272822;
+            }
+            
+            ::-webkit-scrollbar {
+                display: none;
+            }
+
+            #saveButton {
+                margin-left: 25px;
+            }
+
+            .CodeMirror {
+                height: 100%;
+                font-size: 17px;
+            }
+
+            .CodeMirror-overlayscroll-horizontal {
+                position: fixed;
+            }
+        </style>
+    </head>
+    <body>
+    </body>
+    <script>
+        function createEditor() {
+            var editableCodeMirror = CodeMirror(document.body, {
+            //value: "//Please, input your code\n",
+                lineNumbers: true,
+                matchBrackets: true,
+                mode: "text/x-c++src",
+                theme: "monokai",
+                scrollbarStyle: "overlay"
+            });
+            var button = document.getElementById('saveButton');
+            button.addEventListener('click', function() { addValueToHTML(editableCodeMirror.getValue()); });
+        }
+        createEditor();
+        
+    </script>
+</html>

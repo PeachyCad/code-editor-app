@@ -27,9 +27,12 @@ D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLView
 D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.dll
 D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\icudt42.dll
 D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.csprojAssemblyReference.cache
-D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.Form1.resources
 D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.Properties.Resources.resources
 D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.csproj.GenerateResource.cache
 D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.csproj.CopyComplete
 D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.exe
 D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.pdb
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.CodeEditor.resources
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\ja\HTMLViewer.resources.dll
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.CodeEditor.ja.resources
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\ja\HTMLViewer.resources.dll
