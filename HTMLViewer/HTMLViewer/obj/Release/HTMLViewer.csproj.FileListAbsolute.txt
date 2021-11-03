@@ -1,0 +1,35 @@
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\HTMLViewer.exe.config
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\HTMLViewer.exe
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\HTMLViewer.pdb
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.Core.dll
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.Windows.Forms.dll
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.Core.xml
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.Windows.Forms.xml
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\en-US.dll
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\AwesomiumProcess
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.dll
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\bin\Release\icudt42.dll
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.Form1.resources
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.Properties.Resources.resources
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.csproj.GenerateResource.cache
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.csproj.CopyComplete
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.exe
+C:\Users\23481\Desktop\code_editor_app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.pdb
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\HTMLViewer.exe.config
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\HTMLViewer.exe
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\HTMLViewer.pdb
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.Core.dll
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.Windows.Forms.dll
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.Core.xml
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.Windows.Forms.xml
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\en-US.dll
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\AwesomiumProcess
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\Awesomium.dll
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\bin\Release\icudt42.dll
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.csprojAssemblyReference.cache
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.Form1.resources
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.Properties.Resources.resources
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.csproj.GenerateResource.cache
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.csproj.CopyComplete
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.exe
+D:\Program Files\source\git_repos\CodeEditor\code-editor-app\HTMLViewer\HTMLViewer\obj\Release\HTMLViewer.pdb
