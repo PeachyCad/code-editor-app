@@ -44,7 +44,7 @@
             function saveTextAsFile(value) {
                 var textToWrite = value;
                 var textFileAsBlob = new Blob([ textToWrite ], { type: 'text/plain' });
-                var fileNameToSaveAs = "algolite_source.txt";
+                var fileNameToSaveAs = "source_code.txt";
             
                 var downloadLink = document.createElement("a");
                 downloadLink.download = fileNameToSaveAs;
@@ -62,7 +62,6 @@
 
             function createEditor() {
                 var editableCodeMirror = CodeMirror(document.body, {
-                //value: "//Please, input your code\n",
                     lineNumbers: true,
                     matchBrackets: true,
                     mode: "text/x-c++src",

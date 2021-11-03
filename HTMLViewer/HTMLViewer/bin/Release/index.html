@@ -35,19 +35,26 @@
     <body>
     </body>
     <script>
+        var editableCodeMirror;
+
+        function getEditorValue() {
+            return (editableCodeMirror.getValue());
+        }
+
+        function setEditorValue(newValue) {
+            editableCodeMirror.setValue(newValue);
+        }
+
         function createEditor() {
-            var editableCodeMirror = CodeMirror(document.body, {
-            //value: "//Please, input your code\n",
+            editableCodeMirror = CodeMirror(document.body, {
                 lineNumbers: true,
                 matchBrackets: true,
                 mode: "text/x-c++src",
                 theme: "monokai",
                 scrollbarStyle: "overlay"
             });
-            var button = document.getElementById('saveButton');
-            button.addEventListener('click', function() { addValueToHTML(editableCodeMirror.getValue()); });
         }
+
         createEditor();
-        
     </script>
 </html>

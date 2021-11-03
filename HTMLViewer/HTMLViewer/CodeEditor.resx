@@ -125,8 +125,11 @@
   <data name="webControl.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
+  <data name="webControl.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
   <data name="webControl.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1271, 653</value>
+    <value>1854, 985</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="webControl.TabIndex" type="System.Int32, mscorlib">
@@ -163,10 +166,13 @@
     <value>Segoe UI Symbol, 12pt</value>
   </data>
   <data name="saveCodeButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1091, 615</value>
+    <value>1708, 954</value>
+  </data>
+  <data name="saveCodeButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="saveCodeButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 38</value>
+    <value>146, 31</value>
   </data>
   <data name="saveCodeButton.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -190,10 +196,10 @@
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>8, 16</value>
+    <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1271, 653</value>
+    <value>1854, 985</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -369,6 +375,9 @@
         YnwMDGMIBBn6NDL0OgeRmF4km6liYGBgYGBgYGBgYGBgYGBgYGBgYGB08Ph/4spxOoc5YdoAAAAASUVO
         RK5CYII=
 </value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>CodeEditor</value>

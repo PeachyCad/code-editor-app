@@ -45,7 +45,7 @@
             this.saveCodeButton.FlatAppearance.BorderSize = 0;
             this.saveCodeButton.Name = "saveCodeButton";
             this.saveCodeButton.UseVisualStyleBackColor = false;
-            this.saveCodeButton.Click += new System.EventHandler(this.button1_Click);
+            this.saveCodeButton.Click += new System.EventHandler(this.saveCodeButton_Click);
             // 
             // CodeEditor
             // 
